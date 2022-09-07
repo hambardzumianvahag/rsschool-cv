@@ -45,3 +45,7 @@ Nothing yet
 * National Polytechnic University of Armenia , Yerevan
     * Faculty of Information Security, Bachelor 3rd year
 ***
+## Languages:
+* Armenian - native speaker.
+* Russian - fluent speaker.
+* English - B1+(B2 in process)
